@@ -1,4 +1,4 @@
 # My projects
 
-* deeg05.github.io/SimpleLCDSerial
+* SimpleLCDSerial(https://deeg05.github.io/SimpleLCDSerial)
 
